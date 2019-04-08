@@ -22,7 +22,7 @@ Project Babel 2 is an open source software package for creating and supporting c
 
 It's recommended to get the latest codebase of Project Babel 2 with git:
 
-    git clone http://github.com/livid/v2ex.git v2ex
+    git clone http://github.com/zerooverture/v2ex.git v2ex
     
 Then you can rename *v2ex* to whatever you want to match your own App Engine AppID. And follow the steps:
 
